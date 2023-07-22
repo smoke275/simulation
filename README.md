@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Simulation Environment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project simulates a 3D environment in React Three Fibre
 
 ## Available Scripts
 
